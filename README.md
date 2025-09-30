@@ -1,2 +1,8 @@
-# nezor
-Roblox Chat Bypasser
+# Nezor
+
+All executors should be supported!
+
+Script:
+```lua
+script
+```
